@@ -31,3 +31,7 @@ dist-ssr
 artifacts/
 cache/
 coverage/
+
+# Ignore ML artifacts and Vite output
+/ml/artifacts/
+/.vite
